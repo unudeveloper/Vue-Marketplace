@@ -33,3 +33,11 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+## Application Screenshots
+
+<a href="https://pxlshop-21c30.firebaseapp.com/" target="_blank">
+	<img src="./screenshots/screen1.png" alt="Screenshot" />
+	<img src="./screenshots/screen2.png" alt="Screenshot" />
+	<img src="./screenshots/screen3.png" alt="Screenshot" />
+	<img src="./screenshots/screen4.png" alt="Screenshot" />
+</a>
